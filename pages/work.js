@@ -1,10 +1,12 @@
 import React from 'react'
 import Nav from '../comps/nav'
+import Gallery from '../comps/gallery'
 import Footer from '../comps/footer'
 
 export default () => (
   <div className='work'>
     <Nav />
+    <Gallery />
     <Footer />
     <style jsx>{`
       .work {

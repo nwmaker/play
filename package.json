@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/nwmaker/play#readme",
   "dependencies": {
+    "font-awesome": "^4.7.0",
     "next": "^6.0.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2"
