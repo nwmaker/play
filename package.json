@@ -1,0 +1,32 @@
+{
+  "name": "play",
+  "version": "1.0.0",
+  "description": "next.js code exercise",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwmaker/play.git"
+  },
+  "keywords": [
+    "next.js",
+    "react",
+    "css"
+  ],
+  "author": "makernw@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nwmaker/play/issues"
+  },
+  "homepage": "https://github.com/nwmaker/play#readme",
+  "dependencies": {
+    "next": "^6.0.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
